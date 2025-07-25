@@ -58,4 +58,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you'd like me to add a badge (e.g., `made with Jupyter`, Python version, etc.) or help generate the `requirements.txt` file.
